@@ -11,7 +11,7 @@ How to run the code:
 \
 Example answers:
 
-#### python k_center_outliers.py testdataHW2.txt 3 3
+#### python k_center_outliers.py testdata.txt 3 3
 
 ###### Input size n = 15
 ###### Number of centers k = 3
@@ -22,7 +22,7 @@ Example answers:
 ###### Objective function = 0.14142135623730964
 ###### Time of SeqWeightedOutliers = 0.14209747314453125
 
-#### python k_center_outliers.py testdataHW2.txt 3 1
+#### python k_center_outliers.py testdata.txt 3 1
 
 ###### Input size n = 15
 ###### Number of centers k = 3
@@ -33,7 +33,7 @@ Example answers:
 ###### Objective function = 1.562049935181331
 ###### Time of SeqWeightedOutliers = 0.5886554718017578
 
-#### python k_center_outliers.py testdataHW2.txt 3 0
+#### python k_center_outliers.py testdata.txt 3 0
 
 ###### Input size n = 15
 ###### Number of centers k = 3
